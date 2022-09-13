@@ -1,7 +1,9 @@
+import Layouts from "../../components/layouts";
+
 export default function store(){
     return (
-    <div>
+    <Layouts>
         <h1>Bienvenidos al Store</h1>
-    </div>
+    </Layouts>
     )
 }
